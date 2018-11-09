@@ -11,5 +11,5 @@ namespace :greeting do
   end
 end
 namespace :db do
-  desc 'migrate changes'
+  desc 'migrate changes to your database'
 end
