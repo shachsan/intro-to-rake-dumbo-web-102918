@@ -17,4 +17,4 @@ namespace :db do
     Student.create_table
   end
 end
-desc ''
+d
