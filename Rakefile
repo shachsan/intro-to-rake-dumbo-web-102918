@@ -17,6 +17,6 @@ namespace :db do
     Student.create_table
   end
   task :environment do
-    require_relative './config/'
+    require_relative './config/environment'
   end
 end
