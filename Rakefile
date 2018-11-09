@@ -11,5 +11,5 @@ namespace :greeting do
   end
 end
 namespace :db do
-end 
+  desc ''
 end
