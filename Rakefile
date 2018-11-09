@@ -10,4 +10,6 @@ namespace :greeting do
     puts "hola de Rake!"
   end
 end
-namespace :
+namespace :db do
+end 
+end
